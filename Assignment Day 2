@@ -1,0 +1,7 @@
+write a script to scrape the covid cases from the following website
+https://www.worldometers.info/coronavirus/
+
+Your script should return a dataframe consisting of the following columns
+Country, Total Cases, New Cases, Total Deaths, Total Recovered, Active Cases
+
+You can either use Scrapy or BeautifulSoup, the choice is yours.
